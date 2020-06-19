@@ -8,6 +8,14 @@
 .elementor-34 .elementor-element.elementor-element-1774f4b7 .elementor-button:hover, .elementor-34 .elementor-element.elementor-element-1774f4b7 .elementor-button:focus {color: #000;background-color: #fff;}
 .elementor-34 .elementor-element.elementor-element-1774f4b7 .elementor-button:hover svg, .elementor-34 .elementor-element.elementor-element-1774f4b7 .elementor-button:focus svg {fill: #000;}
 .elementor-34 .elementor-element.elementor-element-1774f4b7 > .elementor-widget-container {padding: 14px 0px 0px 0px;}
+.elementor-34 .elementor-element.elementor-element-696ba808 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap {align-content: center;align-items: center;}
+.elementor-34 .elementor-element.elementor-element-696ba808 {padding: 100px 0px 100px 0px;}
+.elementor-34 .elementor-element.elementor-element-346fd74c {text-align: left;}
+.elementor-34 .elementor-element.elementor-element-346fd74c .elementor-heading-title {color: #000;font-size: 54px;font-weight: 600;text-shadow: 0px 0px 10px #fff;}
+.elementor-34 .elementor-element.elementor-element-18c24631 > .elementor-element-populated {padding: 35px 35px 35px 35px;}
+.elementor-34 .elementor-element.elementor-element-148a38fd {color: #7a7a7a;font-size: 15px;font-weight: 300;line-height: 1.8em;}
+.elementor-34 .elementor-element.elementor-element-5e2c4965 > .elementor-element-populated {padding: 35px 35px 35px 35px;}
+.elementor-34 .elementor-element.elementor-element-458609d {color: #54595f;font-size: 15px;font-weight: 300;line-height: 1.8em;}
 .elementor-34 .elementor-element.elementor-element-6845a2f3 > .elementor-container > .elementor-row > .elementor-column > .elementor-column-wrap > .elementor-widget-wrap {align-content: center;align-items: center;}
 .elementor-34 .elementor-element.elementor-element-6845a2f3 {padding: 100px 0px 100px 0px;}
 .elementor-34 .elementor-element.elementor-element-4913e09c {text-align: center;}
@@ -50,6 +58,10 @@
 .elementor-34 .elementor-element.elementor-element-545fe73a:hover .elementor-widget-container {border-style: solid;border-width: 1px 1px 1px 1px;border-color: #000;box-shadow: 0px 0px 55px 0px rgba(0,0,0,.19);}
 .elementor-34 .elementor-element.elementor-element-545fe73a:hover > .elementor-widget-container {border-radius: 0px 0px 0px 0px;}
 @media (max-width:1024px) {.elementor-34 .elementor-element.elementor-element-52aef6ed {padding: 100px 25px 100px 25px;}
+	.elementor-34 .elementor-element.elementor-element-696ba808 {padding: 100px 25px 100px 25px;}
+	.elementor-34 .elementor-element.elementor-element-346fd74c .elementor-heading-title {font-size: 45px;}
+	.elementor-34 .elementor-element.elementor-element-18c24631 > .elementor-element-populated {padding: 15px 15px 15px 15px;}
+	.elementor-34 .elementor-element.elementor-element-5e2c4965 > .elementor-element-populated {padding: 15px 15px 15px 15px;}
 	.elementor-34 .elementor-element.elementor-element-6845a2f3 {padding: 100px 25px 100px 25px;}
 	.elementor-34 .elementor-element.elementor-element-1ce6a587 > .elementor-element-populated {padding: 0px 10px 0px 0px;}
 	.elementor-34 .elementor-element.elementor-element-80a620a.elementor-position-right .elementor-icon-box-icon {margin-left: 0px;}
@@ -65,6 +77,9 @@
 	.elementor-34 .elementor-element.elementor-element-545fe73a > .elementor-widget-container {padding: 30px 30px 30px 30px;}}
 @media (max-width:767px) {.elementor-34 .elementor-element.elementor-element-52aef6ed {padding: 50px 20px 50px 20px;}
 	.elementor-34 .elementor-element.elementor-element-2977d799 .elementor-heading-title {font-size: 55px;}
+	.elementor-34 .elementor-element.elementor-element-696ba808 {padding: 50px 20px 50px 20px;}
+	.elementor-34 .elementor-element.elementor-element-18c24631 > .elementor-element-populated {padding: 25px 0px 0px 0px;}
+	.elementor-34 .elementor-element.elementor-element-5e2c4965 > .elementor-element-populated {padding: 25px 0px 0px 0px;}
 	.elementor-34 .elementor-element.elementor-element-6845a2f3 {padding: 50px 20px 50px 20px;}
 	.elementor-34 .elementor-element.elementor-element-4913e09c .elementor-heading-title {font-size: 45px;}
 	.elementor-34 .elementor-element.elementor-element-1ce6a587 > .elementor-element-populated {padding: 0px 0px 0px 0px;}
