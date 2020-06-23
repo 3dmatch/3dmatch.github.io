@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /wp-
 Allow: /wp-content/uploads/
-Sitemap: https://3dmatch.github.io/sitemap_index.xml
+Sitemap: https://imprimir3d.github.io/sitemap_index.xml
